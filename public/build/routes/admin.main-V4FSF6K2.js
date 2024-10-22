@@ -1,0 +1,1 @@
+import{a as r}from"/build/_shared/chunk-R3XPSXPC.js";import{b as o}from"/build/_shared/chunk-4HXKWYDW.js";import{c as e}from"/build/_shared/chunk-Q3IECNXJ.js";var t=e(o(),1),n=()=>[{title:"\uAD00\uB9AC\uC790: \uD648"}];function a(){return(0,t.jsxs)("div",{className:"p-2",children:[(0,t.jsx)(r,{name:"\uAD00\uB9AC\uC790 \uD648"}),"gfgfdgrfd"]})}export{a as default,n as meta};

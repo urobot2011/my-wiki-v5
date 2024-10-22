@@ -1,0 +1,1 @@
+import{b as e}from"/build/_shared/chunk-4HXKWYDW.js";import{c as a}from"/build/_shared/chunk-Q3IECNXJ.js";var t=a(e(),1);function l({name:m}){return(0,t.jsxs)("div",{className:"",children:[(0,t.jsx)("h1",{className:"text-2xl font-bold mb-1",children:m}),(0,t.jsx)("hr",{className:"text-gray-600 text-xl my-2"})]})}export{l as a};
